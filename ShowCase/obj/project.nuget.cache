@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owAium3lQ28AGdUiP7ayRQ5e6FMXNdwnQu1Vg/fdHBZcY46L7GfoKMy9cVGoNjT3zt8Zn/PSeZ3W1h+ZYeQQmw==",
+  "success": true,
+  "projectFilePath": "/Users/yash/Documents/StringLibrary/ShowCase/ShowCase.csproj",
+  "expectedPackageFiles": [
+    "/Users/yash/.nuget/packages/stringlibrary/1.0.0/stringlibrary.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
